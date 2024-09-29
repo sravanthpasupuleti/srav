@@ -1,0 +1,85 @@
+body{
+  text-align: center;
+  font-family: serif;
+  color: #40514E
+}
+.firstclass{
+  position: relative;
+  padding-top: 70px;
+  background-color: lightblue;
+}
+.mountain{
+  padding-top: 40px;
+}
+.first-cloud{
+  position: absolute;
+  right: 200px;
+  top: 100px
+}
+.second-cloud{
+  position: absolute;
+  top: 250px;
+  left: 250px;
+
+}
+h1{
+  font-size: 3rem;
+  font-family: 'Sacramento',cursive;
+    color:  #66BFBF
+}
+h2{
+  line-height: 0;
+  font-size: 2rem;
+  font-weight: normal;
+    color:  #66BFBF
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 200px;
+  height: 5px;
+}
+
+a{
+  color: #11999E
+}
+
+h3,h4{
+  color: #11999E
+}
+
+.divsecondclass2, .divsecondclass3{
+  width:50%;
+  margin: 100px auto 100px auto;
+  margin-top: 50px;
+  text-align: left;
+  line-height: 2;
+}
+
+.imgsecondclass{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.secondclass{
+  margin-top: 100px;
+}
+
+.imgsecondclass23{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.thirdclass{
+  background-color: lightblue;
+}
+
+a:hover{
+  color:green;
+}

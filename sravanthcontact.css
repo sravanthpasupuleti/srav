@@ -1,0 +1,14 @@
+body{
+  background-color: lightblue;
+  text-align: center;
+}
+h2{
+  font-family: cursive;
+}
+submit{
+  border-color: green;
+}
+.fieldset{
+margin-left: 300px;
+margin-right: 300px;
+}
